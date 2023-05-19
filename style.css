@@ -106,4 +106,8 @@ body{
   text-align: center;
 }
 
+@media  screen and (min-value:375) {
+  
+}
+
 
